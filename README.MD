@@ -135,7 +135,3 @@ Run stress tests using tools like **Postman** or **locust**:
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
 
 ---
-
-
-
-This `README.md` serves as a detailed guide for setting up, running, and understanding the project. Let me know if you need help customizing any part!
